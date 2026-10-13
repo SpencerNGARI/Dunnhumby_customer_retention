@@ -1,0 +1,5 @@
+﻿*.db
+*.duckdb
+data/raw/
+data/processed/
+.ipynb_checkpoints/
